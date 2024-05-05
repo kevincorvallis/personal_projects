@@ -8,3 +8,6 @@
         from message
 
         group by Year, Month, is_from_me;
+
+
+
